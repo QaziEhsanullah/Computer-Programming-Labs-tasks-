@@ -3,14 +3,14 @@
 // Registration No: BF25NWELE0738
 // Section: A
 
-#include <iostream>
+#include <iostream> //header file for input output
 using namespace std;
 
-int main()
+int main()  //main function body
 {
-    int i = 1;
+    int i = 1; // initialize for counter variable
 
-    while(i <= 10)
+    while(i <= 10) // while loop for confition
     {
         cout << i << endl;
         i++;
