@@ -1,8 +1,7 @@
-// Name: Talha Ali
+// Name: Qazi Ehsanullah
 // Department: Electrical Engineering (Power)
-// Registration No: BF25NWELE0728
+// Registration No: BF25NWELE0738
 // Section: A
-
 #include <iostream>
 using namespace std;
 
